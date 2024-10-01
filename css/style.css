@@ -178,7 +178,7 @@ p {
 }
 
 .banner-container img {
-    width: 80%;
+    width: auto;
     height: auto;
     margin-top: 20px;
 }
